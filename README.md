@@ -14,6 +14,11 @@ The full repository sources are available at https://github.com/OGCMetOceanDWG/W
 Accessing the symbols
 ---------------------
 
+Waffle.io Integration
+---------------------
+
+New! Added a waffle.io board: https://waffle.io/mwengren/WorldWeatherSymbols
+
 ### Pre-generated PNGs
 
 A set of pre-generated PNGs are available for download at https://github.com/OGCMetOceanDWG/WorldWeatherSymbols/releases/download/0.6.0/WorldWeatherSymbols-0.6.0-png.zip.
