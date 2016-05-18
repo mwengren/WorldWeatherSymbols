@@ -38,3 +38,7 @@ Version history
 ---------------------
 
 See [HISTORY.txt](https://github.com/OGCMetOceanDWG/WorldWeatherSymbols/tree/master/HISTORY.txt)
+
+Graph
+-----
+[![Throughput Graph](https://graphs.waffle.io/mwengren/WorldWeatherSymbols/throughput.svg)](https://waffle.io/mwengren/WorldWeatherSymbols/metrics/throughput) 
