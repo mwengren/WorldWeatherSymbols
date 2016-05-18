@@ -1,3 +1,4 @@
+[![Stories in Ready](https://badge.waffle.io/mwengren/WorldWeatherSymbols.png?label=ready&title=Ready)](https://waffle.io/mwengren/WorldWeatherSymbols)
 [![Build Status](https://travis-ci.org/OGCMetOceanDWG/WorldWeatherSymbols.png?branch=master)](https://travis-ci.org/OGCMetOceanDWG/WorldWeatherSymbols)
 
 WorldWeatherSymbols
